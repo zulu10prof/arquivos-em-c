@@ -1,1 +1,1 @@
-The controller implemented in this experiment is a proportional modal controller intended to demonstrate the closed-loop operation of the platform rather than to optimize correction performance. A single scalar gain is applied to the selected Zernike modes, without explicit compensation for modal cross-coupling. More advanced control strategies, including integral and predictive approaches, can be implemented within the same experimental architecture and will be investigated in future work~\cite{Roddier1999,Dessenne1998}.
+
